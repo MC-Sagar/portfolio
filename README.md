@@ -3,7 +3,7 @@
 Check out my Portfolio!
 [https://mc-sagar.github.io/portfolio](https://mc-sagar.github.io/portfolio)
 
-# Form submission handler
+### Form submission handler
 
 Credits to:
 
